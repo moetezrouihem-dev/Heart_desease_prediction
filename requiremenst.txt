@@ -1,7 +1,3 @@
 streamlit
-scikit-learn
-pandas
 numpy
-matplotlib
-pickle
-seaborn
+scikit-learn==1.8.0
