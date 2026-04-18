@@ -1,8 +1,8 @@
 # ❤️ Heart Disease Prediction 
 
-**[🌐 Live Demo](https://heart-disease-prediction-moetez.streamlit.app/)** | **[📊 Dataset on Kaggle](https://www.kaggle.com/datasets/mfarhaannazirkhan/heart-dataset)**
+**[🌐 Live Demo](https://heart-disease-prediction-moetez.streamlit.app/)**  |  **[📊 Dataset on Kaggle](https://www.kaggle.com/datasets/mfarhaannazirkhan/heart-dataset)**
 ## 📌 Overview
-This project is an end-to-end Machine Learning solution designed to predict whether a person has heart disease based on their medical attributes. It includes a complete pipeline (data exploration, preprocessing, and model training) and an interactive web application built with Streamlit that allows users to input medical data and get real-time predictions.
+This project is an end-to-end Machine Learning solution designed to predict whether a person has heart disease based on their medical attributes(it is testes on 1882 person . It includes a complete pipeline (data exploration, preprocessing, and model training) and an interactive web application built with Streamlit that allows users to input medical data and get real-time predictions.
 
 > **💡 Remark:** This application is designed for everyone. You don’t need any programming or technical knowledge — just enter the values and get instant predictions.
 
