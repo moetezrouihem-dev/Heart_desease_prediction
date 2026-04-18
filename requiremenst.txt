@@ -1,7 +1,3 @@
-sklearn
-Pandas
-Numpy
-Seaborn
-Matplotlib
-streamlit
-pickle5
+streamlit 
+pickle 
+numpy
